@@ -167,7 +167,7 @@ toolchain = "1.70.0"
 
 [submit]
 kind = "file"
-language_id = "4050"
+language_id = "5054"
 path = "{{ src_path }}"
 #[submit]
 #kind = "command"
